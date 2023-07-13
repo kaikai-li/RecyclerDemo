@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="recycler_features">
+        <item>SnapHelper</item>
+        <item>Contact Adapter</item>
+    </array>
+    <array name="snap_items">
+        <item>LinearSnapHelper</item>
+        <item>PagerSnapHelper</item>
+        <item>CustomSnapHelper</item>
+    </array>
+</resources>
